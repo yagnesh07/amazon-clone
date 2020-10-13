@@ -8,7 +8,7 @@ function App() {
       <div className="App">
         <Switch>
           <Route path = "/checkout">
-            <h1>Checkout Page</h1>
+            <h1>Checkout Page!!</h1>
           </Route>
           <Route path = "/login">
             <h1>Login Page</h1>
